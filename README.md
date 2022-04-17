@@ -1,4 +1,4 @@
-# day-1-vue
+# Katie G Design | L'Essenziale
 
 ## Project setup
 ```
